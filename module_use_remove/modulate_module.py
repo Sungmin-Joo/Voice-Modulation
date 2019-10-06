@@ -42,3 +42,4 @@ if __name__ == "__main__":
     wav = "sample_audio.wav"
     modulate_voice(wav,"Modulated_voice")
     #sound_output(wav)
+    #참고 : https://m.blog.naver.com/PostView.nhn?blogId=tipsware&logNo=221101990466&categoryNo=53&proxyReferer=https%3A%2F%2Fwww.google.com%2F
