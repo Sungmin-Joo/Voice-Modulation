@@ -2,7 +2,8 @@
 Voice Modulation in Python
 
 ## o Getting Started  
-  Implement voice modulation of wav files through Python language. Using techniques that reduce the number of sampled data.  
+  Implement voice modulation of wav files through Python language.  
+  Using techniques that reduce the number of sampled data.  
   Note: [Link](https://m.blog.naver.com/PostView.nhn?blogId=tipsware&logNo=221101990466&categoryNo=53&proxyReferer=https%3A%2F%2Fwww.google.com%2F)  
 
 
